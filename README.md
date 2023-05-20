@@ -1,0 +1,2 @@
+# desbloqEq
+Desbloquea equipos
